@@ -1,0 +1,43 @@
+body{
+    background-image: url(tabuada.jpg);
+    background-size: cover;
+    
+}
+
+header{
+    color: white;
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+    font-size: 25pt;
+    text-shadow: 2px 2px 2px black;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 3px 8px rgb(105, 105, 105);
+    font-family: 'Zilla Slab', serif;
+    font-size: 12pt;
+    
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+    font-style:italic;
+    text-shadow: 2px 2px 2px black;
+}
+
+#btn{
+    font-family: 'Zilla Slab', serif;
+    font-size: 12pt;
+}
+
+#btn:hover{
+    background-color: rgb(250, 127, 82);
+    transition: 2s;
+}
